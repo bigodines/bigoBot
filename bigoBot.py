@@ -6,7 +6,8 @@ from datetime import datetime
 
 class BigoBot(object):
 	"""
-	BigoBot is a Twitter bot for server manipulation. It was designed to download pr0n into our home server. Use at your own risk.
+	BigoBot is a Twitter bot for server manipulation. It was designed to download pr0n into our 
+	home server. Use at your own risk.
 	"""
 	
 	def __init__(self,username,password):
