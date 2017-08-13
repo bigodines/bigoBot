@@ -1,8 +1,2 @@
-This is the source of my python bot which basically download stuff from the internet. I use to download torrents into a specific directory and configure bitTransmission to automatically add all torrents from this directory thus I have a way to start downloading anywhere, without need a special protocol for it. 
+## This project is abandoned. 
 
-You won't be able to download-and-run my bot. Please edit the source and configure.
-
-Actually.. These first versions are just to test git/gitHub, as I'm a late-adopter :P
-
-yours,
-bigo
